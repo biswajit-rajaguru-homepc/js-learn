@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#c1 {
+    position: absolute;
+    /* background: #0000ff ; */
+    display: block;
+}
+
+.controls {
+
+    position: absolute;
+    z-index: 100;
+}
+
+#img1 {
+    display: none;
+}
+
